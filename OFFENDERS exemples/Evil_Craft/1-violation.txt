@@ -1,0 +1,7 @@
+Does not:
+-respect the license
+-distribute this app free
+-say that it's not all made by himself
+
+Does:
+-stole the work of "Minesim" made by "Echoes91" | link: https://forum.minetest.net/viewtopic.php?f=15&t=14732&hilit=minesim
