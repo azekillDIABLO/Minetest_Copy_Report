@@ -1,5 +1,5 @@
 # Minetest_Copy_Report
-In this you can REPORT EVRY ABUSIVE MINETEST COPY! :D Finally some justice in this world!
+In this you can REPORT EVERY ABUSIVE MINETEST COPY! :D Finally some justice in this world!
 
 ### **First Step:**
 
@@ -20,7 +20,7 @@ In this file, add:
         
 * a file called "solutions.txt" where you explain what you think to do, to resolve the problem
         
-* screenshots if you have some. They must prove that the game is a copy of minetest, or a game using ***ilegally*** some stuff from our comunnity? It will help the admin to see if the app is doing bad things!
+* screenshots if you have some. They must prove that the game is a copy of minetest, or a game using ***ilegally*** some stuff from our comunnity. It will help the admin to see if the app is doing bad things!
                 
 * a "note.txt" if you have important things to say
 
