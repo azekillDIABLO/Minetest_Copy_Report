@@ -16,19 +16,15 @@ In your copy, in the top right, create a new "branch". Give it a clear name whic
 On your copy, build a new file called by the name of the app in *'projects'>>>'offenders'*
 
 In this file, add:
-
-        - a file called "violations.txt" where you will put
-          what you find wrong on the app you report
+* a file called "violations.txt" where you will put what you find wrong on the app you report
         
-        - a file called "solutions.txt" where you explain 
-          what you think to do, to resolve the problem
+* a file called "solutions.txt" where you explain what you think to do, to resolve the problem
         
-        - screenshots if you have some. They must prove that 
-          the game is a copy of minetest, or a game using ***ilegally*** 
-          some stuff from our comunnity? It will help the admin 
-          to see if the app is doing bad things!
+* screenshots if you have some. They must prove that the game is a copy of minetest, or a game using ***ilegally*** some stuff from our comunnity? It will help the admin to see if the app is doing bad things!
                 
-        - a "note.txt" if you have important things to say
+* a "note.txt" if you have important things to say
+
+they can be in another format than *.txt* like *.md* or *.odt* Please don't use "microsoft only" formats. On most computer, they are unreadable, and you need to download or buy an app to read them. Also you can put a *.pdf* file, if you don't have other ways to do it.
 
 Click the button "Make Pull Request" to send us your changes. 
 
