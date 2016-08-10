@@ -1,0 +1,15 @@
+This was only an unconfirmed claim by a single user in early May 2016. More information is needed:
+
+1. Find out if the official, legal Google Play store was being used (as per MineYoshi's guesses)
+2. If this "Google Play store" was counterfeit, or the app was obtained from a third-party app store like Aptoide (as per MineYoshi's 
+   guesses)
+3. Find out if there was a counterfeit "Minecraft" app which was taken down by the Minecraft trademark holders in May 2016 or later.
+4. Find out if this counterfeit "Minecraft" ever existed at all. The user stated it was called "Minecraft" and not Minetest, even after
+   being given the names of possible Minetest clones. However, it may have been confusion on part of the user, both times they were asked.
+
+Possible solutions:
+
+1. If the app is proven to exist, report the counterfeit software to the Minecraft trademark holders.
+2. If the app is proven to exist, ask Google about possible transactions related to the app, including purchases of its "full version".
+3. Continue to encourage users, especially mobile users who are most affected by these scams, to download the 
+   official Minetest clients on minetest.net.
